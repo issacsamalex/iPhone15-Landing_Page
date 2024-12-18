@@ -4,7 +4,7 @@ This project is a responsive and visually engaging landing page clone of the App
 
 ## Demo 💻
 
-This project is deployed on Vercel. You can access it <a href="" target="_blank">here</a>.
+This project is deployed on Vercel. You can access it <a href="https://i-phone15-landing-page.vercel.app/" target="_blank">here</a>.
 
 ## Technologies Used 👩‍💻
 
